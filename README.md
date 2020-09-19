@@ -1,1 +1,1 @@
-Demo project
+Udemy demo project
